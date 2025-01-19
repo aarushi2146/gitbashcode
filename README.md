@@ -1,4 +1,7 @@
+DATE - 18 JANUARY, 2025
+<br>
 # gitbashcode
+
 <br>
 <b></b>4 problems where we wrote the code in git bash directly using nano command and then upload it to the repo.</b>
 <br>
