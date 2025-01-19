@@ -1,6 +1,6 @@
 # gitbashcode
 <br>
-4 problems where we wrote the code in git bash directly using nano command and then upload it to the repo.
+<b></b>4 problems where we wrote the code in git bash directly using nano command and then upload it to the repo.</b>
 <br>
 1)print all even and odd numbers in a given range
 <br>
